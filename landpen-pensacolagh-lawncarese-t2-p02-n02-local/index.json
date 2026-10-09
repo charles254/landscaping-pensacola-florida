@@ -3,22 +3,25 @@
   "slug": "landpen-pensacolagh-lawncarese-t2-p02-n02-local",
   "tier": 2,
   "templateId": "process-explainer",
-  "title": "Palm Tree Trimming & Coastal Landscape Care in Pensacola — Process explainer",
+  "title": "Weed Prevention & Seasonal Fertilizer Windows in Pensacola FL — Process explainer",
   "canonical": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-lawncarese-t2-p02-n02-local/",
-  "primaryEntity": "Palm Tree Care & Pruning",
+  "primaryEntity": "Weed Suppression & Fertilizer Compliance",
   "outgoingLinks": [
     {
       "url": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-lawncarese-t1-p00-n02-local/",
-      "anchor": "Sod Installation & Irrigation Repair in Pensacola: Complete Property Guide",
+      "anchor": "Lawn Care & Turf Maintenance Programs in Pensacola FL — Complete Guide",
       "rel": "nofollow",
       "relationship": "supporting"
     }
   ],
   "sources": [
+    "https://landscapingpensacolaflorida.net/services/lawn-care/",
+    "https://landscapingpensacolaflorida.net/services/sod-installation/",
+    "https://landscapingpensacolaflorida.net/services/drainage-french-drains/",
+    "https://landscapingpensacolaflorida.net/services/palm-tree-care/",
     "https://landscapingpensacolaflorida.net/",
+    "https://cityofpensacola.com",
     "https://en.wikipedia.org/wiki/Pensacola,_Florida",
-    "https://edis.ifas.ufl.edu/",
-    "https://en.wikipedia.org/wiki/Lawn_mower",
-    "https://cityofpensacola.com"
+    "https://edis.ifas.ufl.edu/"
   ]
 }

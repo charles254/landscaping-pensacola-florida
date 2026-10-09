@@ -1,0 +1,28 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH-SODINSTALL-T1-P00-N03-LOCAL",
+  "slug": "landpen-pensacolagh-sodinstall-t1-p00-n03-local",
+  "tier": 1,
+  "templateId": "practical-guide",
+  "title": "Sod Installation & Ground Preparation in Pensacola FL — Buyer's Guide",
+  "canonical": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-sodinstall-t1-p00-n03-local/",
+  "primaryEntity": "Sod Installation & Turf Establishment",
+  "outgoingLinks": [
+    {
+      "url": "https://landscapingpensacolaflorida.net/services/sod-installation/",
+      "anchor": "sod installation Pensacola Florida",
+      "rel": "nofollow",
+      "relationship": "destination"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/services/sod-installation/",
+    "https://landscapingpensacolaflorida.net/services/irrigation-repair/",
+    "https://landscapingpensacolaflorida.net/services/landscape-design/",
+    "https://landscapingpensacolaflorida.net/services/hardscaping-pavers/",
+    "https://landscapingpensacolaflorida.net/services/lawn-care/",
+    "https://landscapingpensacolaflorida.net/",
+    "https://cityofpensacola.com",
+    "https://en.wikipedia.org/wiki/Pensacola,_Florida",
+    "https://edis.ifas.ufl.edu/"
+  ]
+}

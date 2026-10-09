@@ -1,0 +1,24 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH-LAWNCARESE-T2-P02-N02-LOCAL",
+  "slug": "landpen-pensacolagh-lawncarese-t2-p02-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Palm Tree Trimming & Coastal Landscape Care in Pensacola — Process explainer",
+  "canonical": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-lawncarese-t2-p02-n02-local/",
+  "primaryEntity": "Palm Tree Care & Pruning",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-lawncarese-t1-p00-n02-local/",
+      "anchor": "Sod Installation & Irrigation Repair in Pensacola: Complete Property Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/",
+    "https://en.wikipedia.org/wiki/Pensacola,_Florida",
+    "https://edis.ifas.ufl.edu/",
+    "https://en.wikipedia.org/wiki/Lawn_mower",
+    "https://cityofpensacola.com"
+  ]
+}

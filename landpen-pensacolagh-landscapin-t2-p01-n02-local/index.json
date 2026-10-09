@@ -3,21 +3,25 @@
   "slug": "landpen-pensacolagh-landscapin-t2-p01-n02-local",
   "tier": 2,
   "templateId": "process-explainer",
-  "title": "French Drains & Stormwater Yard Drainage in Pensacola — Process explainer",
+  "title": "Pavers, Patios & Coastal Hardscaping in Pensacola FL — Process explainer",
   "canonical": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-landscapin-t2-p01-n02-local/",
-  "primaryEntity": "French Drains & Yard Drainage Solutions",
+  "primaryEntity": "Pavers Patios & Hardscaping Engineering",
   "outgoingLinks": [
     {
       "url": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-landscapin-t1-p00-n01-local/",
-      "anchor": "Landscaping Pensacola Florida in Pensacola: Complete Landscaping & Lawn Care Guide",
+      "anchor": "Landscaping Services & Grounds Care in Pensacola FL — Property Owner's Guide",
       "rel": "nofollow",
       "relationship": "supporting"
     }
   ],
   "sources": [
+    "https://landscapingpensacolaflorida.net/services/hardscaping-pavers/",
+    "https://landscapingpensacolaflorida.net/services/lawn-care/",
+    "https://landscapingpensacolaflorida.net/services/sod-installation/",
+    "https://landscapingpensacolaflorida.net/services/drainage-french-drains/",
     "https://landscapingpensacolaflorida.net/",
+    "https://cityofpensacola.com",
     "https://en.wikipedia.org/wiki/Pensacola,_Florida",
-    "https://edis.ifas.ufl.edu/",
-    "https://cityofpensacola.com"
+    "https://edis.ifas.ufl.edu/"
   ]
 }

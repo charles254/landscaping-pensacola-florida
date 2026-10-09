@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-landscapin-t1-p00-n01-local/sitemap.xml

@@ -1,0 +1,28 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH-IRRIGATION-T2-P04-N01-LOCAL",
+  "slug": "landpen-pensacolagh-irrigation-t2-p04-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "French Drains & Stormwater Yard Drainage in Pensacola FL — Process explainer",
+  "canonical": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-irrigation-t2-p04-n01-local/",
+  "primaryEntity": "French Drains & Stormwater Yard Drainage",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-irrigation-t1-p00-n04-local/",
+      "anchor": "Irrigation Repair & Sprinkler Maintenance in Pensacola FL — System Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/services/drainage-french-drains/",
+    "https://landscapingpensacolaflorida.net/services/palm-tree-care/",
+    "https://landscapingpensacolaflorida.net/",
+    "https://landscapingpensacolaflorida.net/services/lawn-care/",
+    "https://landscapingpensacolaflorida.net/services/sod-installation/",
+    "https://landscapingpensacolaflorida.net/services/irrigation-repair/",
+    "https://cityofpensacola.com",
+    "https://en.wikipedia.org/wiki/Pensacola,_Florida",
+    "https://edis.ifas.ufl.edu/"
+  ]
+}

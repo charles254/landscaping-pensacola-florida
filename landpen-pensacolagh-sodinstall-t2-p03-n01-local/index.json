@@ -1,0 +1,27 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH-SODINSTALL-T2-P03-N01-LOCAL",
+  "slug": "landpen-pensacolagh-sodinstall-t2-p03-n01-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "Soil Preparation & Mechanical Grading for New Sod in Pensacola FL — Process explainer",
+  "canonical": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-sodinstall-t2-p03-n01-local/",
+  "primaryEntity": "Soil Preparation & Mechanical Grading",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-sodinstall-t1-p00-n03-local/",
+      "anchor": "Sod Installation & Ground Preparation in Pensacola FL — Buyer's Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/services/sod-installation/",
+    "https://landscapingpensacolaflorida.net/services/drainage-french-drains/",
+    "https://landscapingpensacolaflorida.net/services/palm-tree-care/",
+    "https://landscapingpensacolaflorida.net/",
+    "https://landscapingpensacolaflorida.net/services/lawn-care/",
+    "https://cityofpensacola.com",
+    "https://en.wikipedia.org/wiki/Pensacola,_Florida",
+    "https://edis.ifas.ufl.edu/"
+  ]
+}

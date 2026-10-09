@@ -3,22 +3,25 @@
   "slug": "landpen-pensacolagh-landscapin-t2-p01-n01-local",
   "tier": 2,
   "templateId": "process-explainer",
-  "title": "Lawn Care & Turf Maintenance Programs in Pensacola — Process explainer",
+  "title": "Landscape Design & Native Zone 9a Plantings in Pensacola FL — Process explainer",
   "canonical": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-landscapin-t2-p01-n01-local/",
-  "primaryEntity": "Irrigation Repair & Sprinkler Maintenance",
+  "primaryEntity": "Landscape Design & Native Plantings",
   "outgoingLinks": [
     {
       "url": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-landscapin-t1-p00-n01-local/",
-      "anchor": "Landscaping Pensacola Florida in Pensacola: Complete Landscaping & Lawn Care Guide",
+      "anchor": "Landscaping Services & Grounds Care in Pensacola FL — Property Owner's Guide",
       "rel": "nofollow",
       "relationship": "supporting"
     }
   ],
   "sources": [
-    "https://landscapingpensacolaflorida.net/services/irrigation-repair/",
+    "https://landscapingpensacolaflorida.net/services/landscape-design/",
+    "https://landscapingpensacolaflorida.net/services/hardscaping-pavers/",
+    "https://landscapingpensacolaflorida.net/services/lawn-care/",
+    "https://landscapingpensacolaflorida.net/services/sod-installation/",
     "https://landscapingpensacolaflorida.net/",
+    "https://cityofpensacola.com",
     "https://en.wikipedia.org/wiki/Pensacola,_Florida",
-    "https://edis.ifas.ufl.edu/",
-    "https://cityofpensacola.com"
+    "https://edis.ifas.ufl.edu/"
   ]
 }

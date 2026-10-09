@@ -3,23 +3,26 @@
   "slug": "landpen-pensacolagh-lawncarese-t1-p00-n02-local",
   "tier": 1,
   "templateId": "practical-guide",
-  "title": "Sod Installation & Irrigation Repair in Pensacola: Complete Property Guide",
+  "title": "Lawn Care & Turf Maintenance Programs in Pensacola FL — Complete Guide",
   "canonical": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-lawncarese-t1-p00-n02-local/",
-  "primaryEntity": "Sod Installation & Turf Establishment",
+  "primaryEntity": "Lawn Care & Grounds Maintenance",
   "outgoingLinks": [
     {
-      "url": "https://landscapingpensacolaflorida.net/services/sod-installation/",
-      "anchor": "sod installation Pensacola Florida",
+      "url": "https://landscapingpensacolaflorida.net/services/lawn-care/",
+      "anchor": "lawn care service in Pensacola FL",
       "rel": "nofollow",
       "relationship": "destination"
     }
   ],
   "sources": [
+    "https://landscapingpensacolaflorida.net/services/lawn-care/",
     "https://landscapingpensacolaflorida.net/services/sod-installation/",
     "https://landscapingpensacolaflorida.net/services/irrigation-repair/",
+    "https://landscapingpensacolaflorida.net/services/landscape-design/",
+    "https://landscapingpensacolaflorida.net/services/hardscaping-pavers/",
     "https://landscapingpensacolaflorida.net/",
-    "https://en.wikipedia.org/wiki/Pensacola,_Florida",
     "https://cityofpensacola.com",
+    "https://en.wikipedia.org/wiki/Pensacola,_Florida",
     "https://edis.ifas.ufl.edu/"
   ]
 }

@@ -1,0 +1,23 @@
+{
+  "nodeCode": "LANDPEN-PENSACOLAGH-LANDSCAPIN-T2-P01-N02-LOCAL",
+  "slug": "landpen-pensacolagh-landscapin-t2-p01-n02-local",
+  "tier": 2,
+  "templateId": "process-explainer",
+  "title": "French Drains & Stormwater Yard Drainage in Pensacola — Process explainer",
+  "canonical": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-landscapin-t2-p01-n02-local/",
+  "primaryEntity": "French Drains & Yard Drainage Solutions",
+  "outgoingLinks": [
+    {
+      "url": "https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-landscapin-t1-p00-n01-local/",
+      "anchor": "Landscaping Pensacola Florida in Pensacola: Complete Landscaping & Lawn Care Guide",
+      "rel": "nofollow",
+      "relationship": "supporting"
+    }
+  ],
+  "sources": [
+    "https://landscapingpensacolaflorida.net/",
+    "https://en.wikipedia.org/wiki/Pensacola,_Florida",
+    "https://edis.ifas.ufl.edu/",
+    "https://cityofpensacola.com"
+  ]
+}

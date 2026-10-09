@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://charles254.github.io/landscaping-pensacola-florida/landpen-pensacolagh-irrigation-t2-p04-n01-local/sitemap.xml
